@@ -16,14 +16,6 @@
 > Fruit Guardians 是由 [HnuSec](https://www.hnusec.com) 发起和维护的网络安全开源项目计划。  
 > 我们聚焦攻防研究、安全工具开发与工程化落地，持续把实战中真正有价值的能力沉淀为可复用的项目、脚本与文档。
 
-## 重点仓库
-
-- [HnuSec.github.io](https://github.com/HnuSec/HnuSec.github.io)：实验室官网与公开内容入口，承载组织介绍、学习资料与部分方向内容。
-- [SchoolWork](https://github.com/HnuSec/SchoolWork)：组织公开的实践仓库之一，可作为了解当前内容结构与后续扩展方向的起点。
-
-> 想快速认识我们，建议先从组织仓库总览开始：  
-> [查看 HnuSec 全部公开仓库](https://github.com/orgs/HnuSec/repositories)
-
 ## 我们在做什么
 
 - **安全工具建设**：围绕检测、分析、自动化与攻防协作，打造实用、可靠、可复用的工具链。
@@ -52,7 +44,6 @@
 ## 联系我们
 
 - 官方网站：[hnusec.com](https://www.hnusec.com)
-- 组织主页：[HnuSec on GitHub](https://github.com/HnuSec)
 - 项目仓库：[fruit-guardians](https://github.com/HnuSec/fruit-guardians)
 - 问题反馈：[GitHub Issues](https://github.com/HnuSec/fruit-guardians/issues)
 
