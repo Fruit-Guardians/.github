@@ -39,8 +39,8 @@
       <b>🐣 你是一个不知道从哪儿开始学的安全小白？</b>
     </td>
     <td>
-      从战队历届培训讲义与打卡作业入手，由浅入深构建攻防技能树：<br>
-      👉 请看：<a href="https://github.com/Fruit-Guardians/2026-Autumn-Training">《HnuSec 2026 秋季培训实训体系》</a> 及 <a href="https://github.com/Fruit-Guardians/2025-autumn-learning">《历届专项学习记录》</a>
+      从战队历届培训体系与专项打卡入手，由浅入深构建攻防技能树：<br>
+      👉 请看：<a href="#-training--growth--战队培训与成长归档">《战队培训与成长归档》</a>（涵盖 2026 秋季实训与历届学习记录）
     </td>
   </tr>
   <tr>
@@ -48,17 +48,26 @@
       <b>🤖 你想探索 AI + 安全智能体实战落地？</b>
     </td>
     <td>
-      体验多智能体协同渗透、自动化 CodeQL 规则生成与 LLM 审计流程：<br>
+      体验安全实战 Agent 自主研判与自动化 CodeQL 漏洞分析流水线：<br>
       👉 请看：<a href="https://github.com/Fruit-Guardians/ProofBlade">《ProofBlade 安全智能体》</a> 与 <a href="https://github.com/Fruit-Guardians/PureAutoCodeql">《PureAutoCodeql 漏洞挖掘流水线》</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>🏆 你在备战 CTF 比赛或需要实战辅助工具？</b>
+      <b>🔍 你在寻找移动端逆向脱壳或接口探测工具？</b>
     </td>
     <td>
-      探索竞赛决策渗透运行时、CTF 平台架构与精选 WriteUp：<br>
-      👉 请看：<a href="https://github.com/Fruit-Guardians/Izrail">《Izrail 竞赛决策多 Worker 渗透运行时》</a> 与 <a href="https://github.com/Fruit-Guardians/HnuCTF">《HnuCTF 赛事平台》</a>
+      体验 Android 内存免注入脱壳与前端代码 API 快速梳理：<br>
+      👉 请看：<a href="https://github.com/Fruit-Guardians/NHDD">《NHDD 免注入 DEX/SO 转储工具》</a> 与 <a href="https://github.com/Fruit-Guardians/Api-Finder">《Api-Finder 前端接口挖掘》</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🏆 你在备战 CTF 比赛或需要赛事平台基建？</b>
+    </td>
+    <td>
+      查阅赛事平台架构与题目环境：<br>
+      👉 请看：<a href="https://github.com/Fruit-Guardians/HnuCTF">《HnuCTF 赛事平台》</a>
     </td>
   </tr>
   <tr>
@@ -85,6 +94,8 @@
 
 <h2 align="center"> 🔥 Trending · 重点开源项目 </h2>
 
+<p align="center">组织核心沉淀的 AI 攻防智能体、安全审计工具链与逆向工程成果：</p>
+
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
@@ -96,28 +107,57 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Fruit-Guardians/Izrail"><img src="https://gh-card.dev/repos/Fruit-Guardians/Izrail.svg" alt="Izrail" /></a>
+      <a href="https://github.com/Fruit-Guardians/Api-Finder"><img src="https://gh-card.dev/repos/Fruit-Guardians/Api-Finder.svg" alt="Api-Finder" /></a>
     </td>
     <td align="center">
-      <a href="https://github.com/Fruit-Guardians/gambling-killchain"><img src="https://gh-card.dev/repos/Fruit-Guardians/gambling-killchain.svg" alt="gambling-killchain" /></a>
+      <a href="https://github.com/Fruit-Guardians/NHDD"><img src="https://gh-card.dev/repos/Fruit-Guardians/NHDD.svg" alt="NHDD" /></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Fruit-Guardians/Api-Finder"><img src="https://gh-card.dev/repos/Fruit-Guardians/Api-Finder.svg" alt="Api-Finder" /></a>
+      <a href="https://github.com/Fruit-Guardians/gambling-killchain"><img src="https://gh-card.dev/repos/Fruit-Guardians/gambling-killchain.svg" alt="gambling-killchain" /></a>
     </td>
     <td align="center">
       <a href="https://github.com/Fruit-Guardians/codeql-zed"><img src="https://gh-card.dev/repos/Fruit-Guardians/codeql-zed.svg" alt="codeql-zed" /></a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Fruit-Guardians/2026-Autumn-Training"><img src="https://gh-card.dev/repos/Fruit-Guardians/2026-Autumn-Training.svg" alt="2026-Autumn-Training" /></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Fruit-Guardians/HnuCTF"><img src="https://gh-card.dev/repos/Fruit-Guardians/HnuCTF.svg" alt="HnuCTF" /></a>
-    </td>
-  </tr>
+</table>
+
+<div>&nbsp;</div>
+
+<h2 align="center"> 🎓 Training & Growth · 战队培训与成长归档 </h2>
+
+<p align="center">HnuSec 历届新人选拔、实战训练营与技能打卡归档，见证每一位安全研究员的成长轨迹：</p>
+
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th width="28%">培训体系 / 仓库</th>
+      <th width="15%">周期阶段</th>
+      <th>主要训练内容与定位</th>
+      <th width="14%">快速直达</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/Fruit-Guardians/2026-Autumn-Training">2026-Autumn-Training</a></b></td>
+      <td align="center"><code>2026 秋季 (当前)</code></td>
+      <td><b>HnuSec 2026 秋季新人选拔与培训实训体系</b><br>包含攻防基础、Web 安全、逆向工程、智能 Agent 与任务打卡作业提交。</td>
+      <td align="center"><a href="https://github.com/Fruit-Guardians/2026-Autumn-Training"><img src="https://img.shields.io/badge/Enter-%E8%BF%9B%E5%85%A5%E4%BB%93%E5%BA%93-brightgreen?style=flat-square" alt="进入仓库"/></a></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Fruit-Guardians/2026-Spring-Training">2026-Spring-Training</a></b></td>
+      <td align="center"><code>2026 春季</code></td>
+      <td><b>2026 春季专项技能强化与进阶训练</b><br>聚焦攻防专项攻坚、二进制/Pwn、实战靶场闯关与中期考核归档。</td>
+      <td align="center"><a href="https://github.com/Fruit-Guardians/2026-Spring-Training"><img src="https://img.shields.io/badge/Archive-%E6%9F%A5%E9%98%85%E5%BD%92%E6%A1%A3-blue?style=flat-square" alt="查阅归档"/></a></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Fruit-Guardians/2025-autumn-learning">2025-autumn-learning</a></b></td>
+      <td align="center"><code>2025 秋季</code></td>
+      <td><b>历届基础能力沉淀与学习记录</b><br>收录历届战队成员的新生入门笔记、CTF 题解技巧与实操日志。</td>
+      <td align="center"><a href="https://github.com/Fruit-Guardians/2025-autumn-learning"><img src="https://img.shields.io/badge/Archive-%E6%9F%A5%E9%98%85%E5%BD%92%E6%A1%A3-blue?style=flat-square" alt="查阅归档"/></a></td>
+    </tr>
+  </tbody>
 </table>
 
 <div>&nbsp;</div>
@@ -133,24 +173,24 @@
   <tr>
     <td valign="top">
       <ul>
-        <li><b>Web 漏洞挖掘</b>：链式利用构造、反序列化、逻辑缺陷</li>
+        <li><b>Web 漏洞挖掘</b>：链式利用构造、反序列化、业务逻辑缺陷</li>
         <li><b>二进制 & Pwn</b>：逆向分析、内存脆弱性、Exploit 编写</li>
-        <li><b>密码学分析</b>：密码算法分析、弱随机性与侧信道研究</li>
-        <li><b>数字取证溯源</b>：内存镜像取证、流量解密、入侵溯源</li>
+        <li><b>移动端逆向</b>：Android 内存免注入脱壳、ELF/DEX 动态提取</li>
+        <li><b>密码学与取证</b>：密码算法分析、内存镜像分析、流量解密溯源</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><b>Security Multi-Agent</b>：任务自主规划与协同渗透</li>
+        <li><b>Security Multi-Agent</b>：攻防任务自主规划与协同渗透</li>
         <li><b>CodeQL 规则生成</b>：大模型驱动的代码语义与路径推导</li>
-        <li><b>自动化 PoC 构造</b>：漏洞上下文自适应与有效性验证</li>
+        <li><b>场景化审计 Skill</b>：特定业务场景杀伤链建模与深度排查</li>
         <li><b>模型安全防御</b>：提示词注入拦截、Agent 沙箱安全治理</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
         <li><b>静态分析插件</b>：Zed / IDE 深度语言服务与语法支持</li>
-        <li><b>信息收集自动化</b>：前端静态资产与 API 端点深度探测</li>
+        <li><b>资产测绘自动化</b>：前端静态资产与 API 端点深度探测</li>
         <li><b>CTF 竞技平台</b>：赛事题库沉淀、动态靶标与环境编排</li>
         <li><b>实训体系沉淀</b>：梯度式新人教程与攻防技能树建设</li>
       </ul>
