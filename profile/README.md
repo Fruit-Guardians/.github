@@ -1,148 +1,214 @@
-<div align="center">
-  <img src="logi.png" width="160" alt="Fruit Guardians Logo">
-  <h1>Fruit Guardians · 果宝特攻</h1>
-  <p><strong>聚焦安全研究 · 探索攻防与 AI 智能体 · 沉淀开源实战能力 · 守护数字世界</strong></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,24&height=120&section=header&text=Fruit%20Guardians&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
 
-  [![Security Research](https://img.shields.io/badge/Security-Research-E53935?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/orgs/Fruit-Guardians/repositories)
-  [![AI & Agents](https://img.shields.io/badge/AI%20%26%20Agents-Security-1E88E5?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/orgs/Fruit-Guardians/repositories)
-  [![CTF](https://img.shields.io/badge/CTF-Competitive-00897B?style=for-the-badge&logo=tryhackme&logoColor=white)](https://github.com/Fruit-Guardians/HnuCTF)
-  [![Open Source](https://img.shields.io/badge/Open-Source-43A047?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fruit-Guardians)
-  [![Powered by HnuSec](https://img.shields.io/badge/Powered%20by-HnuSec-8E24AA?style=for-the-badge)](https://www.hnusec.com)
-  [![Members](https://img.shields.io/badge/Members-25-FB8C00?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/orgs/Fruit-Guardians/people)
+<div align="center">
+  <img src="logi.png" width="140" alt="Fruit Guardians Logo" style="border-radius: 50%;">
+  
+  <div>&nbsp;</div>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EA580C&center=true&vCenter=true&width=560&lines=Welcome+to+Fruit+Guardians~;聚焦安全研究+%C2%B7+探索AI攻防智能体;用开源工具与工程实践守护数字世界;For+the+security+researchers+%26+builders~"/>
+
+  <div>&nbsp;</div>
+
+  <div>
+    <a href="https://www.hnusec.com"><img src="https://img.shields.io/badge/Official%20Website-官方网站-8E24AA?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&emsp;
+    <a href="https://github.com/orgs/Fruit-Guardians/repositories"><img src="https://img.shields.io/badge/Repositories-开源仓库-2E7D32?style=for-the-badge&logo=github&logoColor=white" /></a>&emsp;
+    <a href="https://github.com/orgs/Fruit-Guardians/discussions"><img src="https://img.shields.io/badge/Discussions-社区交流-1565C0?style=for-the-badge&logo=githubdiscussions&logoColor=white" /></a>&emsp;
+    <a href="https://github.com/Fruit-Guardians/HnuCTF"><img src="https://img.shields.io/badge/HnuCTF-竞赛体系-C62828?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  </div>
+
+  <div>&nbsp;</div>
 </div>
 
----
+<h2 align="center"> 🍊 Who We Are? </h2>
 
-## 🍊 关于我们 / About Us
+<img align="right" width="120" src="logi.png" alt="Fruit Guardians" />
 
-**Fruit Guardians（果宝特攻）** 是由 **[HnuSec](https://www.hnusec.com)**（海南大学安全团队）发起和维护的网络安全与 AI 攻防开源计划。
+<p><b>Fruit Guardians（果宝特攻）</b> 是由 <b><a href="https://www.hnusec.com">HnuSec</a></b>（海南大学安全团队）发起和维护的网络安全与 AI 攻防开源计划。我们汇聚了一批热爱安全攻防、前沿对抗与智能工程的技术探索者，深耕漏洞挖掘、静态代码分析、二进制逆向与大模型智能体（Security Agent）等领域。我们的宗旨是：<b>将竞赛实战、攻防对抗与学术积累中真正有价值的能力武器化、工程化，沉淀为开箱即用的开源工具与知识体系，赋能每一位安全研究者与学习者。</b></p>
 
-我们汇聚了热衷安全研究、实战攻防与智能化技术的同学与开发者。团队深耕漏洞挖掘、静态代码分析、二进制利用、Web 安全与大模型智能体（Security Agent）等前沿领域，致力于将团队在历届培训积累、国内外顶级 CTF 赛事对抗以及实战漏洞挖掘中提炼出的核心能力，沉淀为高质量、可落地的开源工具、研究成果与知识库，持续向安全社区开放共享。
+<p><b>Fruit Guardians</b> is a cybersecurity and AI agent open-source initiative founded and maintained by <b><a href="https://www.hnusec.com">HnuSec</a></b>. We bring together passionate security researchers, CTF players, and AI engineers specializing in vulnerability hunting, CodeQL static analysis, binary exploitation, and autonomous security agents. Our mission is: <b>weaponizing real-world offensive-defensive capabilities into high-quality open-source toolkits, safeguarding the digital realm alongside the community.</b></p>
 
----
+<div>&nbsp;</div>
 
-## 🚀 重点开源项目 / Featured Projects
+<h2 align="center"> 🧭 Guide · 快速导航 </h2>
 
-组织聚焦于 **AI 赋能安全（AI for Security）**、**实战工具链自动化** 以及 **战队人才培养与归档**，沉淀了以下核心开源成果：
-
-### 🤖 AI × 安全智能体 (AI for Security & Multi-Agent)
-
-| 项目 | 核心技术栈 | 简介与核心亮点 |
-| :--- | :--- | :--- |
-| **[ProofBlade (证锋)](https://github.com/Fruit-Guardians/ProofBlade)** | `TypeScript` · `Security Agent` | **面向信息安全实战的自主智能体**。结合上下文自适应决策与安全工具链调度，赋能攻防场景下的自动化研判与辅助利用。 |
-| **[PureAutoCodeql](https://github.com/Fruit-Guardians/PureAutoCodeql)** | `Python` · `CodeQL` · `LLM Multi-Agent` | **多智能体 CodeQL 自动化漏洞挖掘流水线**。覆盖 CVE 溯源、Source/Sink 追踪、自动 Query 生成与代码路径验证。 |
-| **[Izrail](https://github.com/Fruit-Guardians/Izrail)** | `Python` · `LangGraph` · `OpenCode` | **实战竞赛决策脑与多 Worker 协同渗透运行时**。基于 LangGraph 与 OpenCode 构建，支持无头浏览器自动化与实战靶标多维渗透。 |
-| **[gambling-killchain](https://github.com/Fruit-Guardians/gambling-killchain)** | `Python` · `Claude Code Skill` | **特定场景安全审计技能与杀伤链分析**。面向移动客户端、业务逻辑漏洞、支付闭环与家族指纹关联分析，适配 Codex 与 Claude Code。 |
-
-### 🛠️ 攻防工具与基建研发 (Security Tools & Infrastructure)
-
-| 项目 | 语言 / 类别 | 简介与核心亮点 |
-| :--- | :--- | :--- |
-| **[Api-Finder](https://github.com/Fruit-Guardians/Api-Finder)** | `Python` · 信息收集 | **前端静态文件 API 深度发现工具**。从打包后的前端 JS 静态资源中自动化解析与提取隐藏 API 接口与路由资产。 |
-| **[codeql-zed](https://github.com/Fruit-Guardians/codeql-zed)** | `Python` · `Rust` · 研发提效 | **Zed 编辑器 CodeQL 语言服务插件**。提供 Tree-sitter 语法高亮与 CodeQL CLI 语言服务器（LSP）深度集成。 |
-| **[AutoVul](https://github.com/Fruit-Guardians/AutoVul)** | `TypeScript` · 自动化分析 | **漏洞自动化挖掘与风险研判辅助系统**。集成自动化测试流水线与脆弱性快速验证能力。 |
-
-### 📚 培养体系与知识沉淀 (Training & Archives)
-
-| 仓库名称 | 简介说明 |
-| :--- | :--- |
-| **[2026-Autumn-Training](https://github.com/Fruit-Guardians/2026-Autumn-Training)** | HnuSec 2026 秋季新人培训作业提交、答辩与实训追踪仓库 |
-| **[2026-Spring-Training](https://github.com/Fruit-Guardians/2026-Spring-Training)** / **[2025-autumn-learning](https://github.com/Fruit-Guardians/2025-autumn-learning)** | 历届春季/秋季安全专项训练记录、学习打卡与成长轨迹归档 |
-| **[HnuCTF](https://github.com/Fruit-Guardians/HnuCTF)** | HnuSec 校园及内部 CTF 竞赛平台与赛题沉淀库 |
-| **[HnuSec-Website-Public](https://github.com/Fruit-Guardians/HnuSec-Website-Public)** | HnuSec 团队官方主页、团队博客与知识库门户网站源码 |
-
----
-
-## 🔬 研究方向 / Research Directions
-
-<table>
-<tr>
-<td width="33.3%" valign="top">
-
-### 🛡️ 攻防对抗与实战
-- **Web 安全**：高危漏洞挖掘、链式构造与纵深防御
-- **二进制与 Pwn**：软件逆向、内存安全与 Exploit 编写
-- **密码学与隐写**：算法密码分析与侧信道研究
-- **电子取证**：内存取证、流量溯源与日志深度分析
-
-</td>
-<td width="33.3%" valign="top">
-
-### 🤖 AI × 安全实战
-- **Security Agents**：多智能体协作渗透与任务规划
-- **智能静态分析**：LLM 辅助 CodeQL 规则生成与验证
-- **PoC 自动化构建**：漏洞触发路径推导与自动化复现
-- **模型自身安全**：提示词注入防范、智能体沙箱安全
-
-</td>
-<td width="33.3%" valign="top">
-
-### 🏗️ 工程化与开源沉淀
-- **武器化与自动化**：攻防工具链编排与插件生态开发
-- **CTF 赛后复盘**：官方 WriteUp 撰写与题解沉淀
-- **知识库建设**：历届培训教程、实战靶场与实验指引
-- **开源共建**：面向全球网络安全社区输出技术方案
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="36%">
+      <b>🐣 你是一个不知道从哪儿开始学的安全小白？</b>
+    </td>
+    <td>
+      从战队历届培训讲义与打卡作业入手，由浅入深构建攻防技能树：<br>
+      👉 请看：<a href="https://github.com/Fruit-Guardians/2026-Autumn-Training">《HnuSec 2026 秋季培训实训体系》</a> 及 <a href="https://github.com/Fruit-Guardians/2025-autumn-learning">《历届专项学习记录》</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🤖 你想探索 AI + 安全智能体实战落地？</b>
+    </td>
+    <td>
+      体验多智能体协同渗透、自动化 CodeQL 规则生成与 LLM 审计流程：<br>
+      👉 请看：<a href="https://github.com/Fruit-Guardians/ProofBlade">《ProofBlade 安全智能体》</a> 与 <a href="https://github.com/Fruit-Guardians/PureAutoCodeql">《PureAutoCodeql 漏洞挖掘流水线》</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🏆 你在备战 CTF 比赛或需要实战辅助工具？</b>
+    </td>
+    <td>
+      探索竞赛决策渗透运行时、CTF 平台架构与精选 WriteUp：<br>
+      👉 请看：<a href="https://github.com/Fruit-Guardians/Izrail">《Izrail 竞赛决策多 Worker 渗透运行时》</a> 与 <a href="https://github.com/Fruit-Guardians/HnuCTF">《HnuCTF 赛事平台》</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>💻 你想为 Fruit Guardians 贡献代码或发起项目？</b>
+    </td>
+    <td>
+      欢迎任何具有开源精神的伙伴添砖加瓦或立项共建：<br>
+      👉 请看：<a href="https://github.com/orgs/Fruit-Guardians/repositories">《组织仓库列表》</a>，欢迎直接 Fork 提 PR，或在 <a href="https://github.com/orgs/Fruit-Guardians/discussions">Discussions</a> 交流创意！
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>💬 你在使用工具中发现了 Bug 或有改进建议？</b>
+    </td>
+    <td>
+      我们鼓励所有形式的沟通与反馈，发现问题也是对开源的一大贡献：<br>
+      👉 请直接前往对应仓库的 Issue 提出，或在 <a href="https://github.com/orgs/Fruit-Guardians/discussions">Discussions 社区讨论区</a> 留言 ❤️
+    </td>
+  </tr>
 </table>
 
----
+<div>&nbsp;</div>
 
-## 🤝 如何参与 / How to Contribute
+<h2 align="center"> 🔥 Trending · 重点开源项目 </h2>
 
-无论你是刚刚起步的安全萌新，还是深耕特定领域的攻防专家，Fruit Guardians 都期待你的加入：
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Fruit-Guardians/ProofBlade"><img src="https://gh-card.dev/repos/Fruit-Guardians/ProofBlade.svg" alt="ProofBlade" /></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Fruit-Guardians/PureAutoCodeql"><img src="https://gh-card.dev/repos/Fruit-Guardians/PureAutoCodeql.svg" alt="PureAutoCodeql" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Fruit-Guardians/Izrail"><img src="https://gh-card.dev/repos/Fruit-Guardians/Izrail.svg" alt="Izrail" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Fruit-Guardians/gambling-killchain"><img src="https://gh-card.dev/repos/Fruit-Guardians/gambling-killchain.svg" alt="gambling-killchain" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Fruit-Guardians/Api-Finder"><img src="https://gh-card.dev/repos/Fruit-Guardians/Api-Finder.svg" alt="Api-Finder" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Fruit-Guardians/codeql-zed"><img src="https://gh-card.dev/repos/Fruit-Guardians/codeql-zed.svg" alt="codeql-zed" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Fruit-Guardians/2026-Autumn-Training"><img src="https://gh-card.dev/repos/Fruit-Guardians/2026-Autumn-Training.svg" alt="2026-Autumn-Training" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Fruit-Guardians/HnuCTF"><img src="https://gh-card.dev/repos/Fruit-Guardians/HnuCTF.svg" alt="HnuCTF" /></a>
+    </td>
+  </tr>
+</table>
 
-- 🐣 **安全初学者**：浏览组织归档中的培训体系与讲义，从基础实验逐步深入实战攻防。
-- 🔍 **安全研究者**：贡献前沿漏洞研究、高价值 WriteUp 或分析 PoC，共同拓宽攻防边界。
-- 💻 **工程开发者**：为现有安全工具提交 Issue / PR，或者发起全新的 AI × 安全开源项目。
+<div>&nbsp;</div>
 
-- 📂 浏览所有项目：[Repositories](https://github.com/orgs/Fruit-Guardians/repositories)
-- 💬 提交技术反馈：[Discussions](https://github.com/orgs/Fruit-Guardians/discussions)
-- 🚀 贡献代码与文档：Fork 仓库 → 创建 Feature 分支 → 提交 PR
+<h2 align="center"> 🔬 Research & Tech Stack · 研究矩阵与技术生态 </h2>
 
----
-
-## 👥 团队成员 / Team Members
+<table align="center" width="100%">
+  <tr>
+    <th width="33.3%" align="center">🛡️ 攻防对抗与漏洞挖掘</th>
+    <th width="33.3%" align="center">🤖 AI × 攻防智能体</th>
+    <th width="33.3%" align="center">🏗️ 武器化与工程基建</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><b>Web 漏洞挖掘</b>：链式利用构造、反序列化、逻辑缺陷</li>
+        <li><b>二进制 & Pwn</b>：逆向分析、内存脆弱性、Exploit 编写</li>
+        <li><b>密码学分析</b>：密码算法分析、弱随机性与侧信道研究</li>
+        <li><b>数字取证溯源</b>：内存镜像取证、流量解密、入侵溯源</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Security Multi-Agent</b>：任务自主规划与协同渗透</li>
+        <li><b>CodeQL 规则生成</b>：大模型驱动的代码语义与路径推导</li>
+        <li><b>自动化 PoC 构造</b>：漏洞上下文自适应与有效性验证</li>
+        <li><b>模型安全防御</b>：提示词注入拦截、Agent 沙箱安全治理</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>静态分析插件</b>：Zed / IDE 深度语言服务与语法支持</li>
+        <li><b>信息收集自动化</b>：前端静态资产与 API 端点深度探测</li>
+        <li><b>CTF 竞技平台</b>：赛事题库沉淀、动态靶标与环境编排</li>
+        <li><b>实训体系沉淀</b>：梯度式新人教程与攻防技能树建设</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <p>感谢每一位为 Fruit Guardians 与 HnuSec 持续投入热爱、创意与代码的伙伴：</p>
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,ts,rust,c,cpp,docker,linux,git,fastapi,react,vscode&perline=11" alt="Tech Stack Icons" />
+</div>
+
+<div>&nbsp;</div>
+
+<h2 align="center"> 💐 Fruit Guardians Family · 团队与贡献者 💐 </h2>
+
+<div align="center">
+  <p>感谢每一位为 Fruit Guardians 持续投入热爱、创意与代码的伙伴：</p>
   <br>
 
-[<img src="https://wsrv.nl/?url=github.com/bx33661.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="bx33661" title="bx33661"/>](https://github.com/bx33661)
-[<img src="https://wsrv.nl/?url=github.com/Rxiain.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="Rxiain" title="Rxiain"/>](https://github.com/Rxiain)
-[<img src="https://wsrv.nl/?url=github.com/jujubooom.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="jujubooom" title="jujubooom"/>](https://github.com/jujubooom)
-[<img src="https://wsrv.nl/?url=github.com/unjoke.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="unjoke" title="unjoke"/>](https://github.com/unjoke)
-[<img src="https://wsrv.nl/?url=github.com/iam0range.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="iam0range" title="iam0range"/>](https://github.com/iam0range)
-[<img src="https://wsrv.nl/?url=github.com/jatopos.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="jatopos" title="jatopos"/>](https://github.com/jatopos)
-[<img src="https://wsrv.nl/?url=github.com/mi1n9.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="mi1n9" title="mi1n9"/>](https://github.com/mi1n9)
-[<img src="https://wsrv.nl/?url=github.com/Adonis-315.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="Adonis-315" title="Adonis-315"/>](https://github.com/Adonis-315)
-[<img src="https://wsrv.nl/?url=github.com/bx7f.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="bx7f" title="bx7f"/>](https://github.com/bx7f)
-[<img src="https://wsrv.nl/?url=github.com/chrizsty.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="chrizsty" title="chrizsty"/>](https://github.com/chrizsty)
-[<img src="https://wsrv.nl/?url=github.com/creek-night.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="creek-night" title="creek-night"/>](https://github.com/creek-night)
-[<img src="https://wsrv.nl/?url=github.com/FloatingRaft.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="FloatingRaft" title="FloatingRaft"/>](https://github.com/FloatingRaft)
-[<img src="https://wsrv.nl/?url=github.com/icent-f.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="icent-f" title="icent-f"/>](https://github.com/icent-f)
-[<img src="https://wsrv.nl/?url=github.com/Lamb-fish.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="Lamb-fish" title="Lamb-fish"/>](https://github.com/Lamb-fish)
-[<img src="https://wsrv.nl/?url=github.com/lamp33661.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="lamp33661" title="lamp33661"/>](https://github.com/lamp33661)
-[<img src="https://wsrv.nl/?url=github.com/Lu0m0.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="Lu0m0" title="Lu0m0"/>](https://github.com/Lu0m0)
-[<img src="https://wsrv.nl/?url=github.com/mansujiaosheng.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="mansujiaosheng" title="mansujiaosheng"/>](https://github.com/mansujiaosheng)
-[<img src="https://wsrv.nl/?url=github.com/pwn-cinco.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="pwn-cinco" title="pwn-cinco"/>](https://github.com/pwn-cinco)
-[<img src="https://wsrv.nl/?url=github.com/Q1uJu.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="Q1uJu" title="Q1uJu"/>](https://github.com/Q1uJu)
-[<img src="https://wsrv.nl/?url=github.com/qinglove777.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="qinglove777" title="qinglove777"/>](https://github.com/qinglove777)
-[<img src="https://wsrv.nl/?url=github.com/taixu1440.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="taixu1440" title="taixu1440"/>](https://github.com/taixu1440)
-[<img src="https://wsrv.nl/?url=github.com/uaooo.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="uaooo" title="uaooo"/>](https://github.com/uaooo)
-[<img src="https://wsrv.nl/?url=github.com/weixiao33661.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="weixiao33661" title="weixiao33661"/>](https://github.com/weixiao33661)
-[<img src="https://wsrv.nl/?url=github.com/Yoroll-11.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="Yoroll-11" title="Yoroll-11"/>](https://github.com/Yoroll-11)
-[<img src="https://wsrv.nl/?url=github.com/zel0wisp.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="50" height="50" alt="zel0wisp" title="zel0wisp"/>](https://github.com/zel0wisp)
+[<img src="https://wsrv.nl/?url=github.com/bx33661.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="bx33661" title="bx33661"/>](https://github.com/bx33661)
+[<img src="https://wsrv.nl/?url=github.com/Rxiain.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="Rxiain" title="Rxiain"/>](https://github.com/Rxiain)
+[<img src="https://wsrv.nl/?url=github.com/jujubooom.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="jujubooom" title="jujubooom"/>](https://github.com/jujubooom)
+[<img src="https://wsrv.nl/?url=github.com/unjoke.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="unjoke" title="unjoke"/>](https://github.com/unjoke)
+[<img src="https://wsrv.nl/?url=github.com/iam0range.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="iam0range" title="iam0range"/>](https://github.com/iam0range)
+[<img src="https://wsrv.nl/?url=github.com/jatopos.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="jatopos" title="jatopos"/>](https://github.com/jatopos)
+[<img src="https://wsrv.nl/?url=github.com/mi1n9.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="mi1n9" title="mi1n9"/>](https://github.com/mi1n9)
+[<img src="https://wsrv.nl/?url=github.com/Adonis-315.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="Adonis-315" title="Adonis-315"/>](https://github.com/Adonis-315)
+[<img src="https://wsrv.nl/?url=github.com/bx7f.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="bx7f" title="bx7f"/>](https://github.com/bx7f)
+[<img src="https://wsrv.nl/?url=github.com/chrizsty.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="chrizsty" title="chrizsty"/>](https://github.com/chrizsty)
+[<img src="https://wsrv.nl/?url=github.com/creek-night.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="creek-night" title="creek-night"/>](https://github.com/creek-night)
+[<img src="https://wsrv.nl/?url=github.com/FloatingRaft.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="FloatingRaft" title="FloatingRaft"/>](https://github.com/FloatingRaft)
+[<img src="https://wsrv.nl/?url=github.com/icent-f.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="icent-f" title="icent-f"/>](https://github.com/icent-f)
+[<img src="https://wsrv.nl/?url=github.com/Lamb-fish.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="Lamb-fish" title="Lamb-fish"/>](https://github.com/Lamb-fish)
+[<img src="https://wsrv.nl/?url=github.com/lamp33661.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="lamp33661" title="lamp33661"/>](https://github.com/lamp33661)
+[<img src="https://wsrv.nl/?url=github.com/Lu0m0.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="Lu0m0" title="Lu0m0"/>](https://github.com/Lu0m0)
+[<img src="https://wsrv.nl/?url=github.com/mansujiaosheng.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="mansujiaosheng" title="mansujiaosheng"/>](https://github.com/mansujiaosheng)
+[<img src="https://wsrv.nl/?url=github.com/pwn-cinco.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="pwn-cinco" title="pwn-cinco"/>](https://github.com/pwn-cinco)
+[<img src="https://wsrv.nl/?url=github.com/Q1uJu.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="Q1uJu" title="Q1uJu"/>](https://github.com/Q1uJu)
+[<img src="https://wsrv.nl/?url=github.com/qinglove777.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="qinglove777" title="qinglove777"/>](https://github.com/qinglove777)
+[<img src="https://wsrv.nl/?url=github.com/taixu1440.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="taixu1440" title="taixu1440"/>](https://github.com/taixu1440)
+[<img src="https://wsrv.nl/?url=github.com/uaooo.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="uaooo" title="uaooo"/>](https://github.com/uaooo)
+[<img src="https://wsrv.nl/?url=github.com/weixiao33661.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="weixiao33661" title="weixiao33661"/>](https://github.com/weixiao33661)
+[<img src="https://wsrv.nl/?url=github.com/Yoroll-11.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="Yoroll-11" title="Yoroll-11"/>](https://github.com/Yoroll-11)
+[<img src="https://wsrv.nl/?url=github.com/zel0wisp.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="48" height="48" alt="zel0wisp" title="zel0wisp"/>](https://github.com/zel0wisp)
 
 </div>
 
----
+<div>&nbsp;</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,24&height=100&section=footer" width="100%"/>
+</p>
 
 <div align="center">
-  <strong>Fruit Guardians · 用开源工具沉淀攻防能力，用工程实践守护数字世界</strong>
+  <strong>Fruit Guardians · 用开源工具沉淀攻防能力，用智能工程守护数字世界</strong>
   <br><br>
-  <sub>🌐 官方网站 <a href="https://www.hnusec.com">hnusec.com</a> &nbsp;|&nbsp; 💬 社区讨论 <a href="https://github.com/orgs/Fruit-Guardians/discussions">Discussions</a> &nbsp;|&nbsp; 📦 开源项目 <a href="https://github.com/orgs/Fruit-Guardians/repositories">Repositories</a></sub>
+  <sub>🌐 官方主页 <a href="https://www.hnusec.com">hnusec.com</a> &nbsp;|&nbsp; 💬 社区讨论 <a href="https://github.com/orgs/Fruit-Guardians/discussions">Discussions</a> &nbsp;|&nbsp; 📦 开源项目 <a href="https://github.com/orgs/Fruit-Guardians/repositories">Repositories</a></sub>
   <br>
   <sub>一起见证星辰大海 ✨</sub>
 </div>
