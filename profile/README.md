@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,24&height=120&section=header&text=Fruit%20Guardians&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,24&height=180&section=header&text=Fruit%20Guardians&fontSize=42&fontAlignY=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
 <div align="center">
-  <img src="logi.png" width="140" alt="Fruit Guardians Logo" style="border-radius: 50%;">
+  <img src="logi.png" width="150" alt="Fruit Guardians Logo">
   
   <div>&nbsp;</div>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EA580C&center=true&vCenter=true&width=560&lines=Welcome+to+Fruit+Guardians~;聚焦安全研究+%C2%B7+探索AI攻防智能体;用开源工具与工程实践守护数字世界;For+the+security+researchers+%26+builders~"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EA580C&center=true&vCenter=true&width=560&lines=Welcome+to+Fruit+Guardians~;%E8%81%9A%E7%84%A6%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6+%C2%B7+%E6%8E%A2%E7%B4%A2AI%E6%94%BB%E9%98%B2%E6%99%BA%E8%83%BD%E4%BD%93;%E7%94%A8%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E5%AE%88%E6%8A%A4%E6%95%B0%E5%AD%97%E4%B8%96%E7%95%8C" alt="Fruit Guardians Typing Slogan"/>
 
   <div>&nbsp;</div>
 
   <div>
-    <a href="https://www.hnusec.com"><img src="https://img.shields.io/badge/Official%20Website-官方网站-8E24AA?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&emsp;
-    <a href="https://github.com/orgs/Fruit-Guardians/repositories"><img src="https://img.shields.io/badge/Repositories-开源仓库-2E7D32?style=for-the-badge&logo=github&logoColor=white" /></a>&emsp;
-    <a href="https://github.com/orgs/Fruit-Guardians/discussions"><img src="https://img.shields.io/badge/Discussions-社区交流-1565C0?style=for-the-badge&logo=githubdiscussions&logoColor=white" /></a>&emsp;
-    <a href="https://github.com/Fruit-Guardians/HnuCTF"><img src="https://img.shields.io/badge/HnuCTF-竞赛体系-C62828?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+    <a href="https://www.hnusec.com"><img src="https://img.shields.io/badge/Official%20Website-%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99-8E24AA?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&emsp;
+    <a href="https://github.com/orgs/Fruit-Guardians/repositories"><img src="https://img.shields.io/badge/Repositories-%E5%BC%80%E6%BA%90%E4%BB%93%E5%BA%93-2E7D32?style=for-the-badge&logo=github&logoColor=white" /></a>&emsp;
+    <a href="https://github.com/orgs/Fruit-Guardians/discussions"><img src="https://img.shields.io/badge/Discussions-%E7%A4%BE%E5%8C%BA%E4%BA%A4%E6%B5%81-1565C0?style=for-the-badge&logo=githubdiscussions&logoColor=white" /></a>&emsp;
+    <a href="https://github.com/Fruit-Guardians/HnuCTF"><img src="https://img.shields.io/badge/HnuCTF-%E7%AB%9E%E8%B5%9B%E4%BD%93%E7%B3%BB-C62828?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
   </div>
 
   <div>&nbsp;</div>
