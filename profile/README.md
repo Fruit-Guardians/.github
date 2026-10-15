@@ -31,66 +31,6 @@
 
 <div>&nbsp;</div>
 
-<h2 align="center"> 🧭 Guide · 快速导航 </h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="36%">
-      <b>🐣 你是一个不知道从哪儿开始学的安全小白？</b>
-    </td>
-    <td>
-      从战队历届培训体系与专项打卡入手，由浅入深构建攻防技能树：<br>
-      👉 请看：<a href="#-training--growth--战队培训与成长归档">《战队培训与成长归档》</a>（涵盖 2026 秋季实训与历届学习记录）
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>🤖 你想探索 AI + 安全智能体实战落地？</b>
-    </td>
-    <td>
-      体验安全实战 Agent 自主研判与自动化 CodeQL 漏洞分析流水线：<br>
-      👉 请看：<a href="https://github.com/Fruit-Guardians/ProofBlade">《ProofBlade 安全智能体》</a> 与 <a href="https://github.com/Fruit-Guardians/PureAutoCodeql">《PureAutoCodeql 漏洞挖掘流水线》</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>🔍 你在寻找移动端逆向脱壳或接口探测工具？</b>
-    </td>
-    <td>
-      体验 Android 内存免注入脱壳与前端代码 API 快速梳理：<br>
-      👉 请看：<a href="https://github.com/Fruit-Guardians/NHDD">《NHDD 免注入 DEX/SO 转储工具》</a> 与 <a href="https://github.com/Fruit-Guardians/Api-Finder">《Api-Finder 前端接口挖掘》</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>🏆 你在备战 CTF 比赛或需要赛事平台基建？</b>
-    </td>
-    <td>
-      查阅赛事平台架构与题目环境：<br>
-      👉 请看：<a href="https://github.com/Fruit-Guardians/HnuCTF">《HnuCTF 赛事平台》</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>💻 你想为 Fruit Guardians 贡献代码或发起项目？</b>
-    </td>
-    <td>
-      欢迎任何具有开源精神的伙伴添砖加瓦或立项共建：<br>
-      👉 请看：<a href="https://github.com/orgs/Fruit-Guardians/repositories">《组织仓库列表》</a>，欢迎直接 Fork 提 PR，或在 <a href="https://github.com/orgs/Fruit-Guardians/discussions">Discussions</a> 交流创意！
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>💬 你在使用工具中发现了 Bug 或有改进建议？</b>
-    </td>
-    <td>
-      我们鼓励所有形式的沟通与反馈，发现问题也是对开源的一大贡献：<br>
-      👉 请直接前往对应仓库的 Issue 提出，或在 <a href="https://github.com/orgs/Fruit-Guardians/discussions">Discussions 社区讨论区</a> 留言 ❤️
-    </td>
-  </tr>
-</table>
-
-<div>&nbsp;</div>
 
 <h2 align="center"> 🔥 Trending · 重点开源项目 </h2>
 
